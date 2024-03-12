@@ -8,6 +8,9 @@ The goal of the project is to deploy a replica of the [Airbnb Website](https://w
 - A comprehensive database to manage the backend functionalities
 - An API that provides a communication interface between the front and backend of the system.
 
+Using the Console
+The AlxBnB console can be run both interactively and non-interactively. To run the console in non-interactive mode, pipe any command(s) into an execution of the file console.py at the command line.
+
 ### General concepts in review
 As you navigate this code base, it is great to note the following concepts, while completing this project.
 - How to create a Python package
