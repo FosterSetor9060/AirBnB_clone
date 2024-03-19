@@ -39,7 +39,7 @@ Phases of the AirBnB clone project:
  REST API
  Web dynamic
 
-## Learning Objectives:bulb:
+## Learning Objectives:
 What you should learn from this project:
 
 * What is HTML
